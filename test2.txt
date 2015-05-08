@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 bbbbbaaaatesteteetesttesttest2test2
+=======
+fffccccaaaatesteteetesttesttest2test2
+>>>>>>> dots/feature/kam
